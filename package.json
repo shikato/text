@@ -1,0 +1,11 @@
+{
+  "name": "text",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "textlint": "^7.1.2",
+    "textlint-rule-preset-japanese": "^1.3.3",
+    "textlint-rule-preset-jtf-style": "^2.2.3"
+  }
+}
